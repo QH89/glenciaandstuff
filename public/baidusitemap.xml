@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://yoursite-url/en/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://glenciaandstuff.com/cn/%E8%AF%BB%E4%B9%A6%E9%9A%8F%E7%AC%94-Runaway/</loc>
+    <lastmod>2022-12-07</lastmod>
+  </url>
+  <url>
+    <loc>http://glenciaandstuff.com/cn/%E5%8D%9A%E5%AE%A2%E4%BA%8C%E4%B8%89%E4%BA%8B/</loc>
+    <lastmod>2022-12-05</lastmod>
+  </url>
+  <url>
+    <loc>http://glenciaandstuff.com/cn/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
   <url>
-    <loc>http://yoursite-url/cn/Hexo-Theme-LiveMyLife/</loc>
+    <loc>http://glenciaandstuff.com/en/Hexo-Theme-LiveMyLife/</loc>
     <lastmod>2020-04-16</lastmod>
   </url>
 </urlset> 

@@ -1,0 +1,150 @@
+{
+  "main": {
+    "id": "ce37de506d9187d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8e3724ea3dc6c02",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f88bd5fa216b6519",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "cn/Hexo-Theme-LiveMyLife/mouseclick.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7c813ef92c6c9bea",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbdcdcd056ec21c5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91ce357cd930d764",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "74c2930f4e875ad5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "724ea73bd8287c60",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5f032f83b28c13ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "4344ee221e295ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aec63a3b810fd61f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "cn/Hexo-Theme-LiveMyLife/mouseclick.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "705c5d0886b80152",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "cn/Hexo-Theme-LiveMyLife/mouseclick.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8db244ed56e85d86",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f1fea8d3bf3947bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "cn/Hexo-Theme-LiveMyLife/mouseclick.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "91ce357cd930d764",
+  "lastOpenFiles": [
+    "cn/Hexo-Theme-LiveMyLife/top.png",
+    "cn/Hexo-Theme-LiveMyLife/ribbon.png",
+    "cn/Hexo-Theme-LiveMyLife/mouseclick.png",
+    "cn/Hexo-Theme-LiveMyLife/langen.png",
+    "cn/Hexo-Theme-LiveMyLife/light.png",
+    "cn/Hexo-Theme-LiveMyLife/langcn.png",
+    "cn/Hexo-Theme-LiveMyLife/dark.png",
+    "cn/Hexo-Theme-LiveMyLife/bglinecanvas.png",
+    "cn/博客二三事.md",
+    "cn/读书随笔-Runaway.md"
+  ]
+}

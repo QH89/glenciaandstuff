@@ -22,7 +22,7 @@ langselect:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite-url      # Note: don't forget to modify the CNAME file to your url
+url: http://glenciaandstuff.com     # Note: don't forget to modify the CNAME file to your url
 root: /
 permalink: :lang/:title/
 permalink_defaults:
@@ -39,10 +39,10 @@ permalink_defaults:
 # Custom Setting Start
 
 # Site settings
-SEOTitle: either thin | or die
-email: hexo-theme-livemylife@gmail.com
-description: "It's an IT blog..."
-keyword: "v-vincen,v-vincen,livemylife,IT  blog,Blog"
+SEOTitle: Glencia and Stuff
+email: glencia@163.com
+description: "Blog about every single tiny thing, mainly occultism and literature-related stuff."
+keyword: "glencia,thoughts on books,tarot blog,Blog"
 header-img: img/header_img/newhome_bg.jpg
 archives-img: img/header_img/archive_bg2.jpg
 
@@ -62,13 +62,13 @@ wave: true
 
 # SNS Settings
 # RSS: true
-github_username: V-Vincen
-twitter_username: V_Vincen_
-instagram_username: v_vincen_
+github_username: secret!
+# twitter_username: secret!
+# instagram_username: secret!
 # facebook_username:  yourAccount
 # linkedin_username:  yourAccount
 # zhihu_username: WVincen
-weibo_username: WVincen
+# weibo_username: WVincen
 
 
 # Sidebar Settings
