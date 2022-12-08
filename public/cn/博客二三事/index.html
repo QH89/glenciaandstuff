@@ -244,10 +244,12 @@
 
           
           
+          
+          
           <li>
-            <a href="/archive/">
+            <a href="/categories/">
               
-              归档
+              分类
               
               
             </a>
@@ -278,15 +280,13 @@
           
           
           <li>
-            <a href="/categories/">
+            <a href="/archive/">
               
-              分类
+              归档
               
               
             </a>
           </li>
-          
-          
           
           
 
@@ -402,11 +402,11 @@
             <!-- WordCount start -->
             <div class="blank_box"></div>
             <span class="meta">
-              Estimated Reading Time <span class="post-count">1</span> Minutes
+              Estimated Reading Time <span class="post-count">2</span> Minutes
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">481</span> In Total
+              Words <span class="post-count">597</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -489,16 +489,29 @@ git add .<br>
 git commit -m “my blog 6th commit”<br>
 git branch -M main<br>
 git push -u origin main</p>
-<p>所有的名字（name: “”) 都要做成字符串，以免影响识别</p>
-<p>所有踩过的坑：<br>
-theme需要作为submodule安装，clone之后submodule add “url”就行<br>
+<p>对于某些主题所有的名字（name: “”) 都要做成字符串，以免影响识别</p>
+<p>踩过的坑：<br>
+有些theme需要作为submodule安装，clone之后submodule add “url”就行<br>
 branch用不了就删，从master复制之后，push到新建的branch</p>
 <p>如何在hexo上新建文章：</p>
 <ol>
 <li>用obsidian打开文章所在的文件夹</li>
-<li>在终端输入 hexo new <layout> “新建博客的名字”</li>
+<li>在终端输入 hexo new <layout> “新建博客的名字”</layout></li>
 <li>在obsidian上方编辑文章名、时间和tag</li>
 </ol>
+<p>解决图片无法显示：</p>
+<ol>
+<li>打开_config里的post asset folder, 把false设置成true</li>
+<li>在文件夹安装一个插件, 命令如下: npm install hexo-asset-image --save</li>
+<li>插入图片时用这种方式：<strong></strong><br>
+　test.jpg: 引用的图片<br>
+　This is an test image: 图片描述<br>
+　（这一段来自csdn的博客，侵删）</li>
+</ol>
+<p>如何在本地服务器测试网页：<br>
+命令如下：<br>
+hexo cl &amp;&amp; hexo g &amp;&amp; hexo s<br>
+关闭网页按 ctrl + c</p>
 
 
         <hr>
