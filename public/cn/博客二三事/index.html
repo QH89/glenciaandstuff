@@ -269,9 +269,9 @@
           
           
           <li>
-            <a href="/categories/">
+            <a href="/archive/">
               
-              分类
+              归档
               
               
             </a>
@@ -280,9 +280,9 @@
           
           
           <li>
-            <a href="/archive/">
+            <a href="/categories/">
               
-              归档
+              分类
               
               
             </a>
@@ -406,7 +406,7 @@
             </span>
             <div class="blank_box"></div>
             <span class="meta">
-              Words <span class="post-count">597</span> In Total
+              Words <span class="post-count">691</span> In Total
             </span>
             <div class="blank_box"></div>
             <!-- WordCount end -->
@@ -483,7 +483,7 @@ hexo s：在本地服务器上展示网页<br>
 主题内的改动：theme下之后，主题目录下的_config.yml</p>
 <p>更新npm但没有权限：在更新指令npm install（省略）前加sudo，代表以管理员身份运行，会出现小钥匙，输入密码就完了</p>
 <p>手动更新博客步骤：<br>
-cd Glencaiandstuff<br>
+cd glencaiandstuff<br>
 git init<br>
 git add .<br>
 git commit -m “my blog 6th commit”<br>
@@ -506,7 +506,15 @@ branch用不了就删，从master复制之后，push到新建的branch</p>
 <li>插入图片时用这种方式：<strong></strong><br>
 　test.jpg: 引用的图片<br>
 　This is an test image: 图片描述<br>
-　（这一段来自csdn的博客，侵删）</li>
+　（这一段来自csdn的博客，侵删）<br>
+后来发现这样的图片仍然无法显示，新解决方案如下（01212023）：</li>
+<li>在config_文件中确保含有以下语句：<br>
+post_asset_folder: true<br>
+marked:<br>
+prependRoot: true<br>
+postAsset: true<br>
+注：第一句在笔者的文件里原本就有。只需要复制第二三四行然后粘贴至文件中即可。</li>
+<li>文章内插入图片格式如下：![title of image].(image.jpg).</li>
 </ol>
 <p>如何在本地服务器测试网页：<br>
 命令如下：<br>

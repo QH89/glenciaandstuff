@@ -65,15 +65,15 @@ wave: true
 github_username: secret!
 # twitter_username: secret!
 # instagram_username: secret!
-# facebook_username:  yourAccount
-# linkedin_username:  yourAccount
-# zhihu_username: WVincen
-# weibo_username: WVincen
+# facebook_username:  Glenciw89
+# linkedin_username:  none
+# zhihu_username: yunono yuyuno
+# weibo_username: none
 
 
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
-sidebar-about-description: "Fat people have no future, either thin or die..."
+sidebar-about-description: "Never lies."
 sidebar-avatar: img/avatar/fatpeople.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - visitor   # busuanzi: https://busuanzi.ibruce.info/
@@ -195,6 +195,9 @@ external_link:
 filename_case: 0
 render_drafts: false
 post_asset_folder: true
+marked:
+  prependRoot: true
+  postAsset: true
 relative_link: true
 future: true
 highlight:
@@ -304,8 +307,8 @@ socialshare: true
 
 
 # Viewer config
-## Docs:https://github.com/fengyuanchen/viewer
-## Demo:https://fengyuanchen.github.io/viewer/
+## Docs:https://github.com/QH89/glenciaandstuff
+## Demo:https://github.com/QH89/glenciaandstuff/
 ##
 viewer: true
 
