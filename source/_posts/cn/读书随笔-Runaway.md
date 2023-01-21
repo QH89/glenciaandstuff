@@ -2,6 +2,7 @@
 layout: cn
 title: 读书随笔-Runaway
 date: 2022-12-07 23:04:38
+header-img: /img/header_img/archive_bg3.jpg
 tags: #读书随笔
 ---
 

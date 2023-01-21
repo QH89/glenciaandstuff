@@ -48,12 +48,12 @@ archives-img: img/header_img/archive_bg2.jpg
 
 
 # Favicon settings
-favicon: img/avatar/roguerabbit.jpg
+favicon: img/avatar/G.jpeg
 
 
 # Signature Setup
 signature: true # show signature
-signature-img: img/signature/vincent-white.png
+signature-img: img/signature/Sal.png
 
 
 # Wave settings
@@ -74,7 +74,7 @@ github_username: secret!
 # Sidebar Settings
 sidebar: true   # whether or not using Sidebar.
 sidebar-about-description: "Never lies."
-sidebar-avatar: img/avatar/fatpeople.jpg    # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: img/avatar/motto.jpeg    # use absolute URL, seeing it's used in both `/` and `/about/`
 widgets:
 - visitor   # busuanzi: https://busuanzi.ibruce.info/
 - featured-tags

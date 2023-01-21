@@ -3,7 +3,7 @@ title: 读书随笔-never in anger
 catalog: true
 date: 2022-12-20 12:59:34
 subtitle:
-header-img:
+header-img: /img/header_img/archive_bg3.jpg
 tags: #读书随笔
 categories:
 ---
